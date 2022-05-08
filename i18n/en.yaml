@@ -142,10 +142,10 @@
   translation: Publication
 
 - id: publication_type
-  translation: Type
+  translation: Publication type
 
 - id: date
-  translation: Date
+  translation: Year
 
 - id: last_updated
   translation: Last updated on
